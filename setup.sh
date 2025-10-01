@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World"
+ls -la /tmp/ansible-test
